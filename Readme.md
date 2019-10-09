@@ -5,5 +5,6 @@
 * Bryan Pulla
 * Ambar Ruiz 
 * Napoleon Santana
-* Rebecca Tobias
 * John Stulich
+* Rebecca Tobias
+
